@@ -1,0 +1,11 @@
+.container-sub-title{
+    padding-left: 35px;
+    font-size: 48px;
+    color: var(--color-font-secondary);
+}
+
+.container-description{
+    padding-left: 40px;
+    font-size: 24px;
+    color: var(--color-font-tertiary);
+}

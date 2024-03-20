@@ -10,8 +10,8 @@ export default function HomeBody({ content_page }: any) {
             </div>
             <div className="container-description">
                 <h3>DevSuperior - Escola de programação</h3>
-            </div>
                 <Button text = "Começar"/>     
+            </div>
         </main>
     );
 }

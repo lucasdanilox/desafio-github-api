@@ -8,8 +8,11 @@
     --color-font-primary: #FFFFFF;
     --color-font-secondary: #000000;
     --color-font-tertiary: #7E7E7E;
+    --color-font-fourth: #BFBFBF;
 
     --color-button-primary: #1890FF;
+
+    --color-content-default: #E6F7FF;
 }
 
 * {
@@ -19,7 +22,7 @@
     font-family: "Roboto", sans-serif;
 }
 
- main {
+main {
     padding: 27px 0;
 }
 

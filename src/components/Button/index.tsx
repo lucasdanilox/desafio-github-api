@@ -9,7 +9,7 @@ export default function Button({ text }: Props) {
     return (
 
         <div className="container-button">
-            <button className="button-custom">{text}</button>
+            <button type="submit" className="button-custom">{text}</button>
         </div>
     );
 

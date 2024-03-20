@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom';
 import Button from '../../../components/Button';
 import './styles.css';
 
@@ -10,7 +11,9 @@ export default function HomeBody({ content_page }: any) {
             </div>
             <div className="container-description">
                 <h3>DevSuperior - Escola de programação</h3>
-                <Button text = "Começar"/>     
+                <Link to="/search-profile">
+                    <Button text="Começar" />
+                </Link>
             </div>
         </main>
     );

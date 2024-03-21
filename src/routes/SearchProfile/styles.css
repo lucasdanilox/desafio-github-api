@@ -96,5 +96,11 @@
 .container-input{
     padding-left: 14px;
     color: var(--color-font-profile);
-    
+}
+
+.error-custom{
+    font-size: 38px;
+    max-width: 1251px;
+    margin: 0 auto;
+    padding-top: 64px;
 }

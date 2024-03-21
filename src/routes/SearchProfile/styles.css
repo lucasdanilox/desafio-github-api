@@ -20,21 +20,22 @@
     color: var(--color-font-fourth);
 }
 
-.form-custom{
+.form-custom {
     border: none;
     padding-left: 17px;
     width: 298px;
     height: 40px;
 }
 
-.form-custom:focus{
+.form-custom:focus {
     outline: none;
 }
 
-.form-container{
+.form-container {
     padding-left: 31px;
+
 }
 
-.button-profile-search{
+.button-profile-search {
     padding-left: 31px;
 }

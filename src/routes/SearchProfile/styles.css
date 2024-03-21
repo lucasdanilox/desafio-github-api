@@ -39,3 +39,62 @@
 .button-profile-search {
     padding-left: 31px;
 }
+
+.img-custom{
+    width: 247px;
+    height: 247px;
+    margin-right: 29px;
+}
+
+.user-data{
+    display: flex;
+    align-items: center;
+}
+
+.user-data-container{
+    max-width: 1251px;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    margin-top: 20px;
+    padding-top: 54px;
+}
+
+.user-info{
+    width: 902px;
+    height: 247px;
+    border-radius: 6px;
+    border: 1px solid var(--color-border-primary);
+}
+
+.info-title{
+    padding-bottom: 19px;
+    margin-top: 8px;
+    margin-left: 14px ;
+    color: var(--color-button-primary);
+}
+
+.input-custom{
+    width: 872px;
+    height: 40px;
+    margin-bottom: 5px;
+    padding-left: 10px;
+    padding-top: 8px;
+    border-radius: 4px;
+    border: 1px solid var(--color-border-primary);
+}
+
+.input-custom a{
+    color: blue;
+    text-decoration: unset;
+}
+
+.input-custom a:hover{
+    color: blue;
+}
+
+.container-input{
+    padding-left: 14px;
+    color: var(--color-font-profile);
+    
+}

@@ -9,10 +9,13 @@
     --color-font-secondary: #000000;
     --color-font-tertiary: #7E7E7E;
     --color-font-fourth: #BFBFBF;
+    --color-font-profile: #737373;
 
     --color-button-primary: #1890FF;
 
     --color-content-default: #E6F7FF;
+
+    --color-border-primary: #D9D9D9;
 }
 
 * {
